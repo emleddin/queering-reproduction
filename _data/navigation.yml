@@ -1,0 +1,17 @@
+- name: Modules
+  link: /modules/
+  dropdown:
+    - name: Inclusive Language
+      link: /modules/01-Inclusive-Language
+    - name: Patient Interactions
+      link: /modules/02-Patient-Interactions
+    - name: Barriers
+      link: /modules/03-Barriers
+    - name: Birth Control
+      link: /modules/04-Birth-Control
+    - name: Family Bearing
+      link: /modules/05-Family-Bearing
+# - name: Showcase
+#   link: /showcase/
+# - name: Blog
+#   link: /blog/
