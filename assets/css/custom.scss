@@ -1,0 +1,84 @@
+---
+---
+
+// Change link color
+a {
+/* 3273dc --> 1C51A6 */
+  color: #1C51A6;
+}
+
+// Modified from Software Carpentries lesson.scss
+// https://github.com/carpentries/lesson-example/
+
+@mixin cdSetup($color) {
+    color: $color;
+    border: solid 1px $color;
+    border-left: solid 5px $color;
+    margin: 15px 5px 10px 0;
+    border-radius: 4px 0 0 4px;
+}
+
+$codeblock-padding: 5px !default;
+
+// @mixin bkSetup($color, $glyph) {
+@mixin bkSetup($color) {
+
+  $gradientcolor1: $color;
+  $gradientcolor2: scale-color($color, $lightness: 10%);
+
+  padding: 0 0 $codeblock-padding $codeblock-padding;
+  border: 1px solid;
+  border-color: $color;
+  border-radius: 4px;
+
+  margin: 15px 5px 10px 0;
+
+  h2 {
+    padding-top: $codeblock-padding;
+    padding-bottom: $codeblock-padding;
+    font-size: 20px;
+    font-weight: bold;
+    background: linear-gradient(to bottom, $gradientcolor1, $gradientcolor2);
+    border-color: $color;
+    margin-top: 0px;
+    margin-left: -$codeblock-padding; // to move back to the left margin of the enclosing blockquote
+    padding-left: $codeblock-padding;
+  }
+  // h2:before {
+  //   font-family: 'Glyphicons Halflings';
+  //   content: $glyph;
+  //   float: left;
+  //   padding-left: $codeblock-padding;
+  //   padding-right: $codeblock-padding;
+  //   display: inline-block;
+  //   -webkit-font-smoothing: antialiased;
+  // }
+
+}
+
+// $color-modsum:   #7ae78e !default;
+// // .modsum{ @include bkSetup($color-modsum, "\e101"); }
+// .modsum{ @include bkSetup($color-modsum); }
+// .modsum h3,
+// .modsum    { background-color: #7ae78e20; }
+
+$color-modsum:   #f7a8b8 !default;
+// .modsum{ @include bkSetup($color-modsum, "\e101"); }
+.modsum{ @include bkSetup($color-modsum); }
+.modsum h3,
+.modsum    { background-color: #f7a8b820; }
+
+blockquote p {
+    margin: 5px;
+}
+blockquote :not(h2) + p {
+    padding-top: 1em;
+}
+
+blockquote { font-size: inherit; }
+
+ul,
+ol {
+  padding-left: 2em;
+  list-style-type: square;
+}

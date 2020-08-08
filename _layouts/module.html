@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<div class="columns is-multiline">
+{% if page.summary %}
+{% include module_summary.html %}
+{% endif %}
+
+<!-- <div class="columns is-multiline">
 
     <div class="column is-6">
         <figure class="image is-4by3">
@@ -37,10 +41,10 @@ layout: default
             {% endfor %}
         </div>
         {% endif %}
-    </div>
+    </div> -->
 
     <div class="column is-12">
-        <p class="title is-4">Description</p>
+        <!-- <p class="title is-4">Description</p> -->
         <div class="content">
 
 

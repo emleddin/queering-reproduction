@@ -1,0 +1,26 @@
+{% comment %}
+  Display summary points for an module.
+  This is based on Software Carpentries lesson keypoints.
+  https://github.com/carpentries/lesson-example/
+{% endcomment %}
+
+{% comment %}
+{% if page.summary == nil %}
+{% assign module_summary = include.module_summary %}
+{% else %}
+{% assign module_summary = page.summary %}
+{% endif %}
+{% endcomment %}
+
+{% if page.summary %}
+{% assign module_summary = page.summary %}
+{% endif %}
+
+<blockquote class="modsum">
+  <h2>Summary</h2>
+  <ul>
+    {% for point in module_summary %}
+    <li>{{ point|markdownify }}</li>
+    {% endfor %}
+  </ul>
+</blockquote>
