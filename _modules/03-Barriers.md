@@ -7,8 +7,8 @@ layout: module
 image: https://via.placeholder.com/640x480
 ---
 
-This is the content about the module.
+Words.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis.
-
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+## References
+1. [Safer JD, Coleman E, Feldman J, Garofalo R, Hembree W, Radix A, Sevelius J. Barriers to healthcare for transgender individuals. *Current Opinion in Endocrinology & Diabetes and Obesity* 2016;23(2):168-171. doi: 10.1097/MED.0000000000000227.](https://doi.org/10.1097/MED.0000000000000227) Freely available from [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4802845/).
+2. [Gonzales G, Henning-Smith C. Barriers to Care Among Transgender and Gender Nonconforming Adults. *The Milbank Quarterly* 2017;95:726-748. doi:10.1111/1468-0009.12297.](https://doi.org/10.1111/1468-0009.12297) Freely available from [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5723709/).
