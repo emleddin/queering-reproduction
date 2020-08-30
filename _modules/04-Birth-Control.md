@@ -1,14 +1,21 @@
 ---
 title: Birth Control
 subtitle: What works with an HRT regimen?
-description: This is a module description
+description: This module is about birth control methods for transgender and non-binary individuals.
 #module_code: 04_BC
 layout: module
-image: https://via.placeholder.com/640x480
+image: '../../img/Mirena-IUD.jpg'
+imgcapt: 'Sarahmirk'
+summary:
+- "All birth control methods are safe for people with uteruses. However, the
+only non-hormone prescription-based method is the copper IUD." 
 ---
 
-This is the content about the module.
+One concern that many trans masculine individuals have is that taking
+estrogen-based birth control methods will interfere with their hormone
+replacement therapy (HRT).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis.
-
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+## References
+1. [Bentsianova S, Gordona L, Goldman A, Jacobs A, Steevera J. Use of Copper Intrauterine Device in Transgender Male Adolescents. *Contraception*. 2018;98(1):74-75. doi: https://doi.org/10.1016/j.contraception.2018.02.010.](https://doi.org/10.1016/j.contraception.2018.02.010)
+2. [Mehringer J, Dowshen NL. Sexual and reproductive health considerations among transgender and gender-expansive youth. *Curr Probl Pediatr Adolesc Health Care*. 2019;49(9):100684. doi: https://doi.org/10.1016/j.cppeds.2019.100684.](https://doi.org/10.1016/j.cppeds.2019.100684)
+3. [Boudreau D, Mukerjee R. Contraception Care for Transmasculine Individuals on Testosterone Therapy. *J Midwifery Womens Health*. 2019;64:395-402. doi: https://doi.org/10.1111/jmwh.12962.](https://doi.org/10.1111/jmwh.12962) Freely available from [Research Gate](https://www.researchgate.net/profile/Ronica_Mukerjee/publication/332514791_Contraception_Care_for_Transmasculine_Individuals_on_Testosterone_Therapy/links/5de95f4b299bf10bc343638e/Contraception-Care-for-Transmasculine-Individuals-on-Testosterone-Therapy.pdf)

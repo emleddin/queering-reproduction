@@ -39,6 +39,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - CONTRIBUTING.md
 
 livereload: true
 

@@ -1,11 +1,13 @@
 ---
 title: Family Bearing
 subtitle: What does the nuclear family look like for queer parents?
-description: This is a module description
+description: This module is about family planning for queer families.
 #module_code: 05_FB
 layout: module
-image: https://via.placeholder.com/640x480
-# summary:
+image: '../../img/family.png'
+summary:
+- "People without mammary glands can produce breastmilk by following the
+Newman Goldfarb Protocols."
 ---
 
 Words.

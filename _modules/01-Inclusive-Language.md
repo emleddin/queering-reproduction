@@ -1,7 +1,7 @@
 ---
 title: Inclusive Language
-subtitle: module 1 tagline here
-description: This is a module description
+subtitle: What terminology is respectful?
+description: This module is about showing respect through word choice.
 #module_code: 01_IL
 #price:
 #rating: 3
@@ -13,16 +13,30 @@ description: This is a module description
 #    - label: Available in multiple sizes
 #      icon: fa-fighter-jet
 layout: module
+#image: https://via.placeholder.com/640x480
 image: '../../img/transbbflag.png'
 summary:
 - "Ask what language people use to describe themselves, their body, and their
 family structure. Then, use those terms!"
+- "Consider a patient's entire office visit. What microaggressions might they be facing from the moment they walk in the door, and how can you mitigate them?"
 # Citation style: https://guides.med.ucf.edu/ld.php?content_id=5191991
 ---
 
+Transgender and non-binary people often spend a lot of time explaining their
+identity and fielding intrusive questions about their bodies.
+
+The key thing is that it is better to ask than to assume, but how you ask
+makes a difference.
+
 ## Names and Pronouns
 
+Legal name changes take both time and money.
+Not every trans person changes their name, and those that do may go through a
+period where they try different names to see what works best for them.
+
 ## Updating Workplace Forms
+
+
 Citations 3,4
 
 ## References

@@ -22,6 +22,11 @@ show_sidebar: false
         <div class="card-image">
           <figure class="image is-4by3">
             <img src="{{ module.image }}" alt="{{ module.title }}" />
+            {% comment %}
+            {% if module.imgcapt %}
+            <figcaption>{{ module.imgcapt }}</figcaption>
+            {% endif %}
+            {% endcomment %}
           </figure>
         </div>
         {% endif %}
