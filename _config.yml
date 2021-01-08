@@ -4,7 +4,7 @@ tagline: Queering Reproduction
 email: EmmettLeddin@my.unt.edu
 description: >
   The website for QueeringReproduction about reproductive health for transgender and non-binary individuals
-baseurl: "/"
+baseurl: ""
 url: "https://www.queeringreproduction.com"
 permalink: pretty
 favicon: img/favicon.png
