@@ -14,3 +14,4 @@ show_sidebar: false
 - [Trans 101 Series by uppercaseCHASE1 on YouTube](https://www.youtube.com/watch?v=VRH0pwENbx8&list=PL7SgbxvTR7N5-jYeT2Coj99qnRQTIArKP)
 - [Trans Language Primer](https://www.translanguageprimer.org/)
 - [UCSF Center of Excellence for Transgender Health](https://prevention.ucsf.edu/transhealth/education)
+- [WPATH: World Professional Association for Transgender Health](https://www.wpath.org/)
