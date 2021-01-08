@@ -7,6 +7,7 @@ show_sidebar: false
 - [Callen-Lorde Education Programs](https://callen-lorde.org/education-and-training/)
 - [Howard Brown Education for Healthcare Providers](https://howardbrown.org/era/education/curriculum/)
 - [Mazzoni Center Professional Development Programs](https://www.mazzonicenter.org/prodev)
+- [TransHub Information for Clinicians](https://www.transhub.org.au/clinicians)
 - [National LGBTQIA+ Health Education Center](https://www.lgbtqiahealtheducation.org/)
 - [Sexual Orientation and Gender Identity Nursing](http://www.soginursing.ca/)
 - [Trans 101: Gender Diversity Crash Course](https://trans101.org.au/)
